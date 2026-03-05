@@ -1,16 +1,104 @@
-# first_app
+# 🧠 Quiz App
 
-A new Flutter project.
+A simple and interactive **Flutter Quiz Application** that allows users to answer multiple-choice questions and get their final score at the end.
 
-## Getting Started
+This project is built to practice **Flutter fundamentals**, UI building, and handling user interaction.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 App Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✨ Multiple-choice quiz questions  
+✨ Interactive and clean UI  
+✨ Instant answer selection  
+✨ Final result screen with score  
+✨ Restart quiz functionality  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Built With
+
+- Flutter
+- Dart
+- Material UI
+
+---
+
+## 📂 Project Structure
+
+```
+Quiz_App
+│
+├── lib
+│   ├── main.dart
+│   ├── quiz.dart
+│   ├── question.dart
+│   ├── answer.dart
+│   └── result.dart
+│
+├── pubspec.yaml
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1 Clone the repository
+
+```bash
+git clone https://github.com/MernaAdel656/Quiz_App.git
+```
+
+### 2 Open the project
+
+```bash
+cd Quiz_App
+```
+
+### 3 Install dependencies
+
+```bash
+flutter pub get
+```
+
+### 4 Run the app
+
+```bash
+flutter run
+```
+
+---
+
+## 🎯 Learning Goals
+
+This project helped in learning:
+
+- Flutter widgets
+- Building reusable components
+- Managing application state
+- Handling user input
+- Navigation between screens
+
+---
+
+## 🔮 Future Improvements
+
+- Add quiz categories
+- Add timer for questions
+- Store user scores
+- Improve UI/UX design
+- Add animations
+
+---
+
+## 👩‍💻 Developer
+
+**Merna Adel**
+
+GitHub  
+https://github.com/MernaAdel656
+
+---
+
+⭐ If you like this project, feel free to give it a star!
